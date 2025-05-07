@@ -1,3 +1,4 @@
+![Banner](./github-header-image.png)
 
 # 👋 Hello! I'm Atul
 
